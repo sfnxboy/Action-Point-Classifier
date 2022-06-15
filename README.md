@@ -1,4 +1,5 @@
-# Intent Classifier
+# Action Point Classifier
+## Identifying Action Points in Document
 
 The purpose of this project is to classify strings that are action points. The team has determined an action point is a sentence that has at least one subject, is of the future tense, and has some reference to time. 
 
